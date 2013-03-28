@@ -9,7 +9,7 @@
 ## How do I install this?
 
 1. Install Meteorite `npm install -g meteorite`
-2. Create Your project `mtr create mynewapp`
+2. Create Your project `mrt create mynewapp`
 3. Add chartjs `mrt add chartjs`
 
 
