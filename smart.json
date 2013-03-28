@@ -1,5 +1,5 @@
 {
-  "name": "Chartjs",
+  "name": "chartjs",
   "description": "Simple HTML5 Charts using the <canvas> tag",
   "homepage": "https://github.com/donskifarrell/meteor-chartjs",
   "author": "Donal Farrell <http://www.donalfarrell.com/>",
