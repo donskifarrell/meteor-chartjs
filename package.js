@@ -3,8 +3,8 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use('chartjs', 'client');
   api.add_files([
     'lib/chart.min.js'
   ], 'client');
+  api.export('Chart');
 });
