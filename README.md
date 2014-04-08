@@ -1,3 +1,8 @@
+# Example code of using Chart.js with Meteor
+
+This example has been tested using Meteor v0.8.0
+
+
 # Chart.js for Meteor
 
 The minified JS file has been slightly modified from the official version to fix an issue with variable scoping in Meteor 0.6.5.1 (removed outermost 'var').
