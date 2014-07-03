@@ -1,6 +1,9 @@
-# Chart.js for Meteor
 
-The minified JS file has been slightly modified from the official version to fix an issue with variable scoping in Meteor 0.6.5.1 (removed outermost 'var').
+# Chart.js for Meteor v0.0.5
+
+*Updated to use latest Chartjs 1.0.1-beta2 version*
+
+The minified JS file has been slightly modified from the official version to fix an issue with variable scoping in Meteor 0.6.5.1 and latest 1.0.1-beta2 changes.
 
 ## Requirements
 
