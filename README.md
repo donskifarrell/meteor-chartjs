@@ -1,7 +1,10 @@
 
-# Chart.js for Meteor v0.0.6
+# Chart.js for Meteor 
 
-*Updated to use latest Chartjs 1.0.1-beta2 version*
+*Tested against Meteor v1.0.2.1*
+*Updated to use latest Chartjs 1.0.1-beta4 version*
+
+- Package version: v0.0.6
 
 The minified JS file has been modified from the official version to fix issues with Meteor and the latest 1.0.1-beta2 changes.
 
