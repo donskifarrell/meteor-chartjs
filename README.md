@@ -1,3 +1,6 @@
+# This is no longer maintained!
+
+Sorry, time constraints have stopped from keeping track of this package. I recommend you look for alternatives on atmospherejs.
 
 # Chart.js for Meteor 
 
